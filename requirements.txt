@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+faiss-cpu
+cohere
+PyMuPDF
+python-docx
+dotenv
